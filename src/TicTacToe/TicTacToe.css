@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+table td {
+  border: 2px solid blue;
+  width: 100px;
+  height: 100px;
+}
+
+table td p {
+  text-align: center;
+}
+
+.header {
+  padding: 12px;
+  color: green;
+}
+
+.winner {
+  color: brown;
+  font-size: 32px;
+}
